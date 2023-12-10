@@ -1,14 +1,9 @@
 ## Java Runtime Version
 
-This project is developed and tested using Java [version].
+This project is developed and tested using Java [21.0.1].
 
 ### Required Java Version
 
-[Specify the minimum required Java version for running the project.]
+[This project requires Java Runtime Environment (JRE) version 21.0.1 or higher.]
 
-### How to Check Your Java Version
 
-You can check your installed Java version by running the following command in your terminal:
-
-```bash
-java -version
